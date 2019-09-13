@@ -6,7 +6,7 @@
 %% Intialize Variables
     % Intiialize Scalar Values
         Kp = 5;
-        Kd = 2;
+        Kd = 2.5;
         P = 17;
 
     % Initialize Sctructures
