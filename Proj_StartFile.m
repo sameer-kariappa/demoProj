@@ -7,7 +7,7 @@
     % Intiialize Scalar Values
         Kp = 5.6;
         Kd = 2.5;
-        P = 17;
+        P = 18;
 
     % Initialize Sctructures
         % No Strctures at this time

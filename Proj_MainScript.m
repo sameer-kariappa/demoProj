@@ -25,4 +25,6 @@ clc
     % Figure Outputs
         plot(tout,data)
         xlabel('time')
+        ylabel('Signal')
+        title('Signal Analysis')
         
