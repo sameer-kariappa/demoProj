@@ -26,7 +26,8 @@ clc
         plot(tout,data)
         xlabel('time ->')
         ylabel('Signal ->')
-        ylim([-7 7])
+        limiter = Kp*Kd;
+        ylim([-abs(limiter) abs(limiter)])
         title('Signal Analysis')
     % End
         
