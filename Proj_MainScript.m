@@ -28,6 +28,6 @@ clc
         ylabel('Signal ->')
         limiter = Kp*Kd;
         ylim([-abs(limiter) abs(limiter)])
-        title('Signal Analysis')
+        title('Signal Analysis of Clean Data')
     % End
         
