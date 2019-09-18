@@ -1,4 +1,4 @@
-%% Clean up MATLAB Session
+%% Clean up MATLAB Sessions
     clear
     bdclose all
     clc
