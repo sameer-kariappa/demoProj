@@ -1,4 +1,4 @@
-%% Clean up MATLAB Sessions
+%% Clean up MATLAB Session
     clear
     bdclose all
     clc
@@ -6,7 +6,7 @@
 %% Intialize Variables
     % Intiialize Scalar Values
         Kp = 5.3;
-        Kd = 2.7; % Checked witth Kelle
+        Kd = 2.7;%
         P = 18;
 
     % Initialize Sctructures
