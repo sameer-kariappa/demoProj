@@ -17,4 +17,4 @@
     clc
     
 %% Specify name of Base Simulink Model
-    mdl = 'signalTest';
+    mdl = 'signalTest'; %done
