@@ -19,7 +19,7 @@ clc
         
 %% Display Results
     % Command Line Outputs
-        disp(['Peak Amplitude = ' num2str(amplitude)])
+        disp(['Signal Peak Amplitude = ' num2str(amplitude)])
         disp(['Duty Cycles Completed = ' num2str(cycles)]);
     
     % Figure Outputs
