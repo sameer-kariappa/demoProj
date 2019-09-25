@@ -18,3 +18,5 @@
     
 %% Specify name of Base Simulink Model
     mdl = 'signalTest'; %done
+    
+    %Test for update line outside MATLAB
